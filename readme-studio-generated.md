@@ -1,23 +1,22 @@
-# INTMAIL 📧
+# ExamAI ⚡
 
-### AI-Powered Cold Email Generator for Internships
+### AI-Powered Exam Domination & Strategy Engine
 
-INTMAIL is a modern web application that helps students and job seekers generate professional, personalized cold emails for internship and job applications using Google Gemini AI. It simplifies outreach by producing high-quality email drafts in seconds through an intuitive interface.
+ExamAI is a sophisticated web application designed to help students transform their syllabi into strategic advantages. Using Google Gemini AI, it analyzes syllabus complexity and previous question papers to generate psychologically optimized study schedules, revision cycles, and priority question lists.
 
 ---
 
 ## 🚀 Features
 
-- 🤖 AI-generated cold emails using Google Gemini API  
+🤖 AI-Generated Battle Plans: Custom study schedules based on syllabus complexity and exam dates
 
-- 🎯 Personalized content based on user inputs  
+📄 Question Paper Analysis: Upload PYQs to identify recurring themes and high-weightage questions
 
-- 🎨 Clean and responsive UI with Tailwind CSS  
+📅 Google Calendar Integration: Manage assignments, tests, and study sessions in a familiar interface
 
-- 📄 One-click PDF download of generated emails  
+🏆 Achievement System: Gamified progress tracking with unlocked milestones
 
-- ⚡ Fast and lightweight frontend built with React + Vite  
-
+🎨 Elite UI/UX: Clean, dark-themed responsive interface built with Tailwind CSS
 ---
 
 ## 🛠 Tech Stack
