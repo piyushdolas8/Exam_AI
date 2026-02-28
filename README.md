@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# ExamAI ⚡
 
-This contains everything you need to run your app locally.
+### AI-Powered Exam Domination & Strategy Engine
 
-View your app in AI Studio: https://ai.studio/apps/8ecdf824-0303-4491-81a8-88398642d19b
+ExamAI is a sophisticated web application designed to help students transform their syllabi into strategic advantages. Using Google Gemini AI, it analyzes syllabus complexity and previous question papers to generate psychologically optimized study schedules, revision cycles, and priority question lists.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Features
 
+🤖 AI-Generated Battle Plans: Custom study schedules based on syllabus complexity and exam dates
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📄 Question Paper Analysis: Upload PYQs to identify recurring themes and high-weightage questions
+
+📅 Google Calendar Integration: Manage assignments, tests, and study sessions in a familiar interface
+
+🏆 Achievement System: Gamified progress tracking with unlocked milestones
+
+🎨 Elite UI/UX: Clean, dark-themed responsive interface built with Tailwind CSS
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vite  
+
+- **Styling:** Tailwind CSS  
+
+- **AI Integration:** Google Gemini API  
+
+- **Language:** JavaScript  
+
+- **Version Control:** Git & GitHub  
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+
+# 1️⃣ Clone the repository
+
+git clone https://github.com/yourusername/intmail.git
+
+cd intmail
+
+# 2️⃣ Install dependencies
+
+npm install
+
+# 3️⃣ Setup environment variables
+
+# Create a .env.local file in the project root and add:
+
+# VITE_GEMINI_API_KEY=your_google_gemini_api_key_here
+
+# ⚠️ Never commit your API key. Ensure .env.local is listed in .gitignore.
+
+# 4️⃣ Start the development server
+
+npm run dev
+
+# Open your browser at:
+
+# http://localhost:5173
